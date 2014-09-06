@@ -10,6 +10,10 @@ Parse JavaScript using acorn and then 'evaluate' the AST, alowing interesting ex
 
     npm install acorn-compile
 
+## Usage
+
+For now, see test cases for uses and for what parts of JavaScript our implemented.  The goal is to focus on implementing the ES6 features, over the older features.
+
 ## License
 
   MIT
