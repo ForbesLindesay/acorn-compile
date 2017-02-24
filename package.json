@@ -4,13 +4,13 @@
   "description": "Parse JavaScript using acorn and then 'evaluate' the AST, alowing interesting extensions.",
   "keywords": [],
   "dependencies": {
-    "acorn": "^0.7.0",
-    "promise": "^5.0.0"
+    "acorn": "^4.0.11",
+    "promise": "^7.1.1"
   },
   "devDependencies": {
     "mkdirp": "^0.5.0",
     "mocha": "*",
-    "throat": "^1.0.0"
+    "throat": "^3.0.0"
   },
   "scripts": {
     "test": "mocha -R spec"
