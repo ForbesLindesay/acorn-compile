@@ -1,5 +1,7 @@
 # acorn-compile
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/acorn-compile.svg)](https://greenkeeper.io/)
+
 Parse JavaScript using acorn and then 'evaluate' the AST, alowing interesting extensions.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/acorn-compile/master.svg)](https://travis-ci.org/ForbesLindesay/acorn-compile)
